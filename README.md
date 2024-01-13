@@ -1,3 +1,6 @@
+#Link curso youtube
+https://www.youtube.com/watch?v=IYI0em-xT28
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
